@@ -10,11 +10,11 @@
 
 ###
 
-<p data-importer="text" align="left">🔭 I’m currently working on Multi-Agent project<br>👀 I’m interested in Web3 Development, DSA,Deep Learning<br>🌱 I’m currently learning LangGraph<br>👯 I’m looking to collaborate on Web Development Project<br>📫 How to reach me: islamrejaul130@gmail.com</p>
+<img data-importer="image" align="right" height="165" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 
 ###
 
-<img data-importer="image" align="right" height="170" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+<p data-importer="text" align="left">🔭 I’m currently working on Multi-Agent project<br>👀 I’m interested in Web3 Development, DSA,Deep Learning<br>🌱 I’m currently learning LangGraph<br>👯 I’m looking to collaborate on Web Development Project<br>📫 How to reach me: islamrejaul130@gmail.com</p>
 
 ###
 
@@ -65,10 +65,6 @@
 
 ###
 
-<img data-importer="profile-views" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rejaul786-code.rejaul786-code&"  />
-
-###
-
 <div data-importer="socials" align="left">
   <a href="https://x.com/islamrejaul130" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -83,5 +79,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
+
+###
+
+<img data-importer="profile-views" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rejaul786-code.rejaul786-code&"  />
 
 ###
