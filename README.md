@@ -10,11 +10,11 @@
 
 ###
 
-<img data-importer="image" align="right" height="175" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+<p data-importer="text" align="left">🔭 I’m currently working on Multi-Agent project<br>👀 I’m interested in Web3 Development, DSA,Deep Learning<br>🌱 I’m currently learning LangGraph<br>👯 I’m looking to collaborate on Web Development Project<br>📫 How to reach me: islamrejaul130@gmail.com</p>
 
 ###
 
-<p data-importer="text" align="left">🔭 I’m currently working on Multi-Agent project<br>👀 I’m interested in Web3 Development, DSA,Deep Learning<br>🌱 I’m currently learning LangGraph<br>👯 I’m looking to collaborate on Web Development Project<br>📫 How to reach me: islamrejaul130@gmail.com</p>
+<img data-importer="image" align="right" height="170" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 
 ###
 
@@ -49,8 +49,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
@@ -67,11 +65,23 @@
 
 ###
 
+<img data-importer="profile-views" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rejaul786-code.rejaul786-code&"  />
+
+###
+
 <div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <a href="https://x.com/islamrejaul130" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/feed/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="islamrejaul130@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.youtube.com/@rejaulislam2593" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
 </div>
 
 ###
